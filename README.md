@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RebecadeMouraMendes/RebecadeMouraMendes/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RebecadeMouraMendes/RebecadeMouraMendes" alt="Snake animation" />
 
 ###

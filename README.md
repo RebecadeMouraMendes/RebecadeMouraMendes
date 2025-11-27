@@ -1,4 +1,4 @@
-<h2 align="left">Sou a Rebeca Mendes, estudante do segundo ano de Desenvolvimento de Sistemas (Novotec)</h2>
+<h2 align="left">Sou a Rebeca Mendes, estudante do terceiro ano de Desenvolvimento de Sistemas (Novotec)</h2>
 
 ###
 
